@@ -1,5 +1,5 @@
 import numpy as np
-from utils import euclidean_distance
+from project.utils import euclidean_distance
 
 class KNN():
     """ K Nearest Neighbors classifier
